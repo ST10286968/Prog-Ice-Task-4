@@ -1,0 +1,17 @@
+C:\Users\ibrah\source\repos\Ice4\Ice4\bin\Debug\net8.0-windows\Ice4.exe
+C:\Users\ibrah\source\repos\Ice4\Ice4\bin\Debug\net8.0-windows\Ice4.deps.json
+C:\Users\ibrah\source\repos\Ice4\Ice4\bin\Debug\net8.0-windows\Ice4.runtimeconfig.json
+C:\Users\ibrah\source\repos\Ice4\Ice4\bin\Debug\net8.0-windows\Ice4.dll
+C:\Users\ibrah\source\repos\Ice4\Ice4\bin\Debug\net8.0-windows\Ice4.pdb
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.Form1.resources
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.sourcelink.json
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.dll
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\refint\Ice4.dll
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.pdb
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\Ice4.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\Ice4\Ice4\obj\Debug\net8.0-windows\ref\Ice4.dll
